@@ -1,0 +1,15 @@
+p {
+    background-color: rgb(165, 216, 216);
+}
+
+.selection-title {
+
+}
+
+#lorem-art:hover {
+    background-color: aqua;
+}
+
+* {
+    background-color: rgb(169, 204, 169);
+}
